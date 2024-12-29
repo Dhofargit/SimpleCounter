@@ -1,0 +1,2 @@
+# SimpleCounter
+Simple Counter VHDL
